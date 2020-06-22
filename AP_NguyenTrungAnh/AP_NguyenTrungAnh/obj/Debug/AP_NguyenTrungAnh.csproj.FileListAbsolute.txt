@@ -1,0 +1,7 @@
+D:\C#\AP_NguyenTrungAnh\AP_NguyenTrungAnh\obj\Debug\AP_NguyenTrungAnh.csprojAssemblyReference.cache
+D:\C#\AP_NguyenTrungAnh\AP_NguyenTrungAnh\obj\Debug\AP_NguyenTrungAnh.csproj.CoreCompileInputs.cache
+D:\C#\AP_NguyenTrungAnh\AP_NguyenTrungAnh\bin\Debug\AP_NguyenTrungAnh.exe.config
+D:\C#\AP_NguyenTrungAnh\AP_NguyenTrungAnh\bin\Debug\AP_NguyenTrungAnh.exe
+D:\C#\AP_NguyenTrungAnh\AP_NguyenTrungAnh\bin\Debug\AP_NguyenTrungAnh.pdb
+D:\C#\AP_NguyenTrungAnh\AP_NguyenTrungAnh\obj\Debug\AP_NguyenTrungAnh.exe
+D:\C#\AP_NguyenTrungAnh\AP_NguyenTrungAnh\obj\Debug\AP_NguyenTrungAnh.pdb
